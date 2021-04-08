@@ -17,9 +17,11 @@ In /results you will find plots of demand and supply by components of elecricity
 
 ### Example
 
--- Results --
-CO2-Emission: 8936.12 t/a
-Total Costs of Energy System per Year: 21.10 Mio. €/a
-Self-Sufficiency: 94.90 %
+-- Results -- <br/><br/>
+CO2-Emission: 8936.12 t/a <br/><br/>
+Total Costs of Energy System per Year: 21.10 Mio. €/a <br/><br/>
+Self-Sufficiency: 94.90 % <br/><br/>
 
 ![Plot1](results/detailed_analysis_elec.png)
+![Plot2](results/detailed_analysis_heat.png)
+![Plot3](results/detailed_analysis_ressources.png)
